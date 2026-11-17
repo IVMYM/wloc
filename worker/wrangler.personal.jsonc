@@ -1,0 +1,6 @@
+{
+  "name": "wloc-ivmym-personal",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-05",
+  "observability": { "enabled": false }
+}
